@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=IntelliJ PyCharm Community Edition
+Icon=/home/spring/Documents/programs/pycharm-community-2017.3.3/bin/pycharm.png
+Exec="/home/spring/Documents/programs/pycharm-community-2017.3.3/bin/pycharm.sh" %f
+Comment=The Drive to Develop
+Categories=Development;IDE;
+#Terminal=false
+StartupWMClass=jetbrains-pycharm-ce

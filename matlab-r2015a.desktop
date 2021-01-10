@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=MATLAB R2015a
+Exec=/home/spring/MATLAB-R2015a/bin/matlab %f
+GenericName=MATLAB R2015a
+Name=MATLAB R2015a
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=Programming;Science;Mathematics;
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Icon=

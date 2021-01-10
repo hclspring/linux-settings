@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=JetBrains Clion C++ IDE
+Icon=/home/spring/Documents/programs/clion-2018.3.4/bin/clion.png
+Exec=/home/spring/Documents/programs/clion-2018.3.4/bin/clion.sh
+#Icon=/home/spring/Documents/programs/eclipse/java-oxygen/eclipse/icon.xpm
+#Exec="/home/spring/Documents/programs/eclipse/java-oxygen/eclipse/eclipse" %f
+Comment=The Drive to Develop
+Categories=Development;IDE;
+#Terminal=false
+StartupWMClass=Clion-C++-IDE

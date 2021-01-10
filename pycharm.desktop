@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Encoding=UTF-8
+Name=Wechat
+Comment=Web Wechat webview in Electron to make it a single app
+Exec=/opt/wechat/wechat
+Path=/opt/wechat/
+Icon=/opt/wechat/icon.png
+Terminal=false
+Categories=Application;

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Eclipse Java Oxygen
+Icon=/home/spring/Documents/programs/eclipse/java-oxygen/eclipse/icon.xpm
+Exec="/home/spring/Documents/programs/eclipse/java-oxygen/eclipse/eclipse" %f
+Comment=The Drive to Develop
+Categories=Development;IDE;
+#Terminal=false
+StartupWMClass=eclipse-java-oxygen
